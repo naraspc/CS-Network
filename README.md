@@ -1,6 +1,9 @@
 # CS-Network
 
-
+<details>
+  <summary>OSI 7 Layer</summary>
+    <div markdown="1">
+    <ul>
 <details>
   <summary>물리 계층</summary>
   <div markdown="1">
@@ -75,3 +78,7 @@
 </details>
 
 ### 응용계층이 최상위, 물리계층이 최 하위계층으로 상위 계층에서 하위계층으로 정보 전달 시 데이터 앞에 각각 레이어의 헤더를 달아 캡슐화함
+
+ </ul>
+  </div>
+</details>
